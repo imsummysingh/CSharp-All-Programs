@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program9_ReferenceObjectType\bin\Debug\Program9_ReferenceObjectType.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program9_ReferenceObjectType\bin\Debug\Program9_ReferenceObjectType.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program9_ReferenceObjectType\bin\Debug\Program9_ReferenceObjectType.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program9_ReferenceObjectType\obj\Debug\Program9_ReferenceObjectType.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program9_ReferenceObjectType\obj\Debug\Program9_ReferenceObjectType.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program9_ReferenceObjectType\obj\Debug\Program9_ReferenceObjectType.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program9_ReferenceObjectType\obj\Debug\Program9_ReferenceObjectType.pdb

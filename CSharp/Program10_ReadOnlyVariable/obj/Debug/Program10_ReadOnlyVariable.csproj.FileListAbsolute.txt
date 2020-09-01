@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program10_ReadOnlyVariable\bin\Debug\Program10_ReadOnlyVariable.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program10_ReadOnlyVariable\bin\Debug\Program10_ReadOnlyVariable.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program10_ReadOnlyVariable\bin\Debug\Program10_ReadOnlyVariable.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program10_ReadOnlyVariable\obj\Debug\Program10_ReadOnlyVariable.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program10_ReadOnlyVariable\obj\Debug\Program10_ReadOnlyVariable.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program10_ReadOnlyVariable\obj\Debug\Program10_ReadOnlyVariable.pdb

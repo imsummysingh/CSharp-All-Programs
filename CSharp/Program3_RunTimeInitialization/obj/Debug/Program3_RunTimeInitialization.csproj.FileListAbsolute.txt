@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program3_RunTimeInitialization\bin\Debug\Program3_RunTimeInitialization.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program3_RunTimeInitialization\bin\Debug\Program3_RunTimeInitialization.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program3_RunTimeInitialization\bin\Debug\Program3_RunTimeInitialization.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program3_RunTimeInitialization\obj\Debug\Program3_RunTimeInitialization.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program3_RunTimeInitialization\obj\Debug\Program3_RunTimeInitialization.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program3_RunTimeInitialization\obj\Debug\Program3_RunTimeInitialization.pdb

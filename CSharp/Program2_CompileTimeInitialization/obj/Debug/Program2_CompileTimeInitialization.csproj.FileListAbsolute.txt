@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program2_CompileTimeInitialization\bin\Debug\Program2_CompileTimeInitialization.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program2_CompileTimeInitialization\bin\Debug\Program2_CompileTimeInitialization.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program2_CompileTimeInitialization\bin\Debug\Program2_CompileTimeInitialization.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program2_CompileTimeInitialization\obj\Debug\Program2_CompileTimeInitialization.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program2_CompileTimeInitialization\obj\Debug\Program2_CompileTimeInitialization.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program2_CompileTimeInitialization\obj\Debug\Program2_CompileTimeInitialization.pdb

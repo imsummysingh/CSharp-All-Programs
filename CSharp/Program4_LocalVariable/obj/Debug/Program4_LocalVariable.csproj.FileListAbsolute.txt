@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program4_LocalVariable\bin\Debug\Program4_LocalVariable.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program4_LocalVariable\bin\Debug\Program4_LocalVariable.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program4_LocalVariable\bin\Debug\Program4_LocalVariable.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program4_LocalVariable\obj\Debug\Program4_LocalVariable.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program4_LocalVariable\obj\Debug\Program4_LocalVariable.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program4_LocalVariable\obj\Debug\Program4_LocalVariable.pdb

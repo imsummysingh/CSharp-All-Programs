@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program8_StaticVariable\bin\Debug\Program8_StaticVariable.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program8_StaticVariable\bin\Debug\Program8_StaticVariable.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program8_StaticVariable\bin\Debug\Program8_StaticVariable.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program8_StaticVariable\obj\Debug\Program8_StaticVariable.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program8_StaticVariable\obj\Debug\Program8_StaticVariable.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program8_StaticVariable\obj\Debug\Program8_StaticVariable.pdb
