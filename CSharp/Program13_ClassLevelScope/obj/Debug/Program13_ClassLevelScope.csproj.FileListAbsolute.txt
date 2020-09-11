@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program13_ClassLevelScope\obj\Debug\Program13_ClassLevelScope.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program13_ClassLevelScope\bin\Debug\Program13_ClassLevelScope.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program13_ClassLevelScope\bin\Debug\Program13_ClassLevelScope.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program13_ClassLevelScope\bin\Debug\Program13_ClassLevelScope.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program13_ClassLevelScope\obj\Debug\Program13_ClassLevelScope.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program13_ClassLevelScope\obj\Debug\Program13_ClassLevelScope.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program13_ClassLevelScope\obj\Debug\Program13_ClassLevelScope.csprojAssemblyReference.cache

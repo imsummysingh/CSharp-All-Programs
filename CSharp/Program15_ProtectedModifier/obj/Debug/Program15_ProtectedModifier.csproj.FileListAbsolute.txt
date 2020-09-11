@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program15_ProtectedModifier\obj\Debug\Program15_ProtectedModifier.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program15_ProtectedModifier\bin\Debug\Program15_ProtectedModifier.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program15_ProtectedModifier\bin\Debug\Program15_ProtectedModifier.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program15_ProtectedModifier\bin\Debug\Program15_ProtectedModifier.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program15_ProtectedModifier\obj\Debug\Program15_ProtectedModifier.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program15_ProtectedModifier\obj\Debug\Program15_ProtectedModifier.pdb

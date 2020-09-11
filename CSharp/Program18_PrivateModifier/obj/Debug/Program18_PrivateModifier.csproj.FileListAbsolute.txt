@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program18_PrivateModifier\bin\Debug\Program18_PrivateModifier.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program18_PrivateModifier\bin\Debug\Program18_PrivateModifier.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program18_PrivateModifier\bin\Debug\Program18_PrivateModifier.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program18_PrivateModifier\obj\Debug\Program18_PrivateModifier.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program18_PrivateModifier\obj\Debug\Program18_PrivateModifier.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program18_PrivateModifier\obj\Debug\Program18_PrivateModifier.pdb

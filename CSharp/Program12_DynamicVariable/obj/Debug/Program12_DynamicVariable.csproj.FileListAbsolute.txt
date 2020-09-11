@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program12_DynamicVariable\bin\Debug\Program12_DynamicVariable.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program12_DynamicVariable\bin\Debug\Program12_DynamicVariable.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program12_DynamicVariable\bin\Debug\Program12_DynamicVariable.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program12_DynamicVariable\obj\Debug\Program12_DynamicVariable.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program12_DynamicVariable\obj\Debug\Program12_DynamicVariable.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program12_DynamicVariable\obj\Debug\Program12_DynamicVariable.pdb

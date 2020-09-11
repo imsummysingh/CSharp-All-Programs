@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program17_ProtectedInternalModifier\bin\Debug\Program17_ProtectedInternalModifier.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program17_ProtectedInternalModifier\bin\Debug\Program17_ProtectedInternalModifier.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program17_ProtectedInternalModifier\bin\Debug\Program17_ProtectedInternalModifier.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program17_ProtectedInternalModifier\obj\Debug\Program17_ProtectedInternalModifier.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program17_ProtectedInternalModifier\obj\Debug\Program17_ProtectedInternalModifier.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program17_ProtectedInternalModifier\obj\Debug\Program17_ProtectedInternalModifier.pdb
