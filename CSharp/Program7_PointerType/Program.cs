@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program7_PointerType
+namespace Program07_PointerType
 {
     class Program
     {

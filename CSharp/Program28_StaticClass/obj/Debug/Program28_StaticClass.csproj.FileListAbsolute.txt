@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program28_StaticClass\bin\Debug\Program28_StaticClass.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program28_StaticClass\bin\Debug\Program28_StaticClass.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program28_StaticClass\bin\Debug\Program28_StaticClass.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program28_StaticClass\obj\Debug\Program28_StaticClass.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program28_StaticClass\obj\Debug\Program28_StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program28_StaticClass\obj\Debug\Program28_StaticClass.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program28_StaticClass\obj\Debug\Program28_StaticClass.pdb

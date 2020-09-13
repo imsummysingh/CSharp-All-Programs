@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_TypeOf\bin\Debug\Program31_TypeOf.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_TypeOf\bin\Debug\Program31_TypeOf.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_TypeOf\bin\Debug\Program31_TypeOf.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_TypeOf\obj\Debug\Program32_TypeOf.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_TypeOf\obj\Debug\Program31_TypeOf.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_TypeOf\obj\Debug\Program31_TypeOf.pdb

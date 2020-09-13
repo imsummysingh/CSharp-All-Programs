@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program2_CompileTimeInitialization
+namespace Program02_CompileTimeInitialization
 {
     class Program
     {

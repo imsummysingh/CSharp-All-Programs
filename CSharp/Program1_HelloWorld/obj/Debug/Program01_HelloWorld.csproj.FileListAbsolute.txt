@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program1_HelloWorld\bin\Debug\Program1_HelloWorld.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program1_HelloWorld\bin\Debug\Program1_HelloWorld.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program1_HelloWorld\bin\Debug\Program1_HelloWorld.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program1_HelloWorld\obj\Debug\Program01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program1_HelloWorld\obj\Debug\Program1_HelloWorld.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program1_HelloWorld\obj\Debug\Program1_HelloWorld.pdb

@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program27_GetAndSet\bin\Debug\Program27_GetAndSet.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program27_GetAndSet\bin\Debug\Program27_GetAndSet.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program27_GetAndSet\bin\Debug\Program27_GetAndSet.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program27_GetAndSet\obj\Debug\Program27_GetAndSet.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program27_GetAndSet\obj\Debug\Program27_GetAndSet.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program27_GetAndSet\obj\Debug\Program27_GetAndSet.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program27_GetAndSet\obj\Debug\Program27_GetAndSet.pdb

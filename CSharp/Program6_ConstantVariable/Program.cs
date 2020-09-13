@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program6_ConstantVariable
+namespace Program06_ConstantVariable
 {
     class Program
     {

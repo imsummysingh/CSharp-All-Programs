@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program30_StaticMethod\bin\Debug\Program30_StaticMethod.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program30_StaticMethod\bin\Debug\Program30_StaticMethod.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program30_StaticMethod\bin\Debug\Program30_StaticMethod.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program30_StaticMethod\obj\Debug\Program30_StaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program30_StaticMethod\obj\Debug\Program30_StaticMethod.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program30_StaticMethod\obj\Debug\Program30_StaticMethod.pdb

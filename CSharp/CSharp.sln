@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program1_HelloWorld", "Program1_HelloWorld\Program1_HelloWorld.csproj", "{29E8A8BD-2D9B-4CEE-A0EB-57F96B612443}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program01_HelloWorld", "Program1_HelloWorld\Program01_HelloWorld.csproj", "{29E8A8BD-2D9B-4CEE-A0EB-57F96B612443}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program2_CompileTimeInitialization", "Program2_CompileTimeInitialization\Program2_CompileTimeInitialization.csproj", "{11E26BC8-8761-4CE5-B71B-CE71A11BF8BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program02_CompileTimeInitialization", "Program2_CompileTimeInitialization\Program02_CompileTimeInitialization.csproj", "{11E26BC8-8761-4CE5-B71B-CE71A11BF8BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program3_RunTimeInitialization", "Program3_RunTimeInitialization\Program3_RunTimeInitialization.csproj", "{F0763B3F-112F-4853-9DFE-E533A9DB0CA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program03_RunTimeInitialization", "Program3_RunTimeInitialization\Program03_RunTimeInitialization.csproj", "{F0763B3F-112F-4853-9DFE-E533A9DB0CA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program4_LocalVariable", "Program4_LocalVariable\Program4_LocalVariable.csproj", "{CD276BDF-CFE3-47F7-8164-2AC170C8D50E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program04_LocalVariable", "Program4_LocalVariable\Program04_LocalVariable.csproj", "{CD276BDF-CFE3-47F7-8164-2AC170C8D50E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program5_InstanceVariable", "Program5_InstanceVariable\Program5_InstanceVariable.csproj", "{9A6DEBAB-5A2B-41C4-812B-238FF9894486}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program05_InstanceVariable", "Program5_InstanceVariable\Program05_InstanceVariable.csproj", "{9A6DEBAB-5A2B-41C4-812B-238FF9894486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program6_ConstantVariable", "Program6_ConstantVariable\Program6_ConstantVariable.csproj", "{F81FC2E5-A91B-4303-9938-DDB199D62ACD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program06_ConstantVariable", "Program6_ConstantVariable\Program06_ConstantVariable.csproj", "{F81FC2E5-A91B-4303-9938-DDB199D62ACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program7_PointerType", "Program7_PointerType\Program7_PointerType.csproj", "{FCAC57F5-4428-4628-8DB1-D51246139DD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program07_PointerType", "Program7_PointerType\Program07_PointerType.csproj", "{FCAC57F5-4428-4628-8DB1-D51246139DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program8_StaticVariable", "Program8_StaticVariable\Program8_StaticVariable.csproj", "{96951F6F-786C-400B-BACA-F6A705D19BB1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program08_StaticVariable", "Program8_StaticVariable\Program08_StaticVariable.csproj", "{96951F6F-786C-400B-BACA-F6A705D19BB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program9_ReferenceObjectType", "Program9_ReferenceObjectType\Program9_ReferenceObjectType.csproj", "{544CEDBB-5C3D-4F9F-9953-F25E9D187AE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program09_ReferenceObjectType", "Program9_ReferenceObjectType\Program09_ReferenceObjectType.csproj", "{544CEDBB-5C3D-4F9F-9953-F25E9D187AE1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program10_ReadOnlyVariable", "Program10_ReadOnlyVariable\Program10_ReadOnlyVariable.csproj", "{CB323DC6-BA81-4C58-8273-4C7C0F53EE3B}"
 EndProject
@@ -54,6 +54,22 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program25_ExplicitTypeConversion", "Program25_ExplicitTypeConversion\Program25_ExplicitTypeConversion.csproj", "{ED7FB9B5-EE31-49C2-B882-E43AFF282793}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program26_Enumeraation", "Program26_Enumeraation\Program26_Enumeraation.csproj", "{6541B62F-20F9-4464-AE63-01070D9A60FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program27_GetAndSet", "Program27_GetAndSet\Program27_GetAndSet.csproj", "{CBE114A7-70E3-4E0E-B66B-064D2E08075D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program28_StaticClass", "Program28_StaticClass\Program28_StaticClass.csproj", "{2C21E9EF-17DF-4CF2-9A77-6306C3CACC41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program29_StaticVariable", "Program29_StaticVariable\Program29_StaticVariable.csproj", "{E88E4886-BFEC-4D1A-B7F3-9E4D084B4A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program30_StaticMethod", "Program30_StaticMethod\Program30_StaticMethod.csproj", "{8EA8DC0A-AA35-43DF-B13A-07237E24D34C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program31_StaticConstructor", "Program31_StaticConstructor\Program31_StaticConstructor.csproj", "{FB32E458-4B24-473E-8BB5-8004133B90AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program32_TypeOf", "Program31_TypeOf\Program32_TypeOf.csproj", "{A49EF88C-8522-4116-897C-EFB2C9C7C2BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program33_RefKeyword", "Program33_RefKeyword\Program33_RefKeyword.csproj", "{D4CE97D4-FD55-42B2-AD90-4A3084223E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program34_InitializingObject", "Program34_InitializingObject\Program34_InitializingObject.csproj", "{68CFF5EC-73AD-4411-80D6-A32F815C7CDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +181,38 @@ Global
 		{6541B62F-20F9-4464-AE63-01070D9A60FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6541B62F-20F9-4464-AE63-01070D9A60FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6541B62F-20F9-4464-AE63-01070D9A60FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE114A7-70E3-4E0E-B66B-064D2E08075D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE114A7-70E3-4E0E-B66B-064D2E08075D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE114A7-70E3-4E0E-B66B-064D2E08075D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE114A7-70E3-4E0E-B66B-064D2E08075D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C21E9EF-17DF-4CF2-9A77-6306C3CACC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C21E9EF-17DF-4CF2-9A77-6306C3CACC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C21E9EF-17DF-4CF2-9A77-6306C3CACC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C21E9EF-17DF-4CF2-9A77-6306C3CACC41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88E4886-BFEC-4D1A-B7F3-9E4D084B4A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88E4886-BFEC-4D1A-B7F3-9E4D084B4A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88E4886-BFEC-4D1A-B7F3-9E4D084B4A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88E4886-BFEC-4D1A-B7F3-9E4D084B4A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA8DC0A-AA35-43DF-B13A-07237E24D34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA8DC0A-AA35-43DF-B13A-07237E24D34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA8DC0A-AA35-43DF-B13A-07237E24D34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA8DC0A-AA35-43DF-B13A-07237E24D34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB32E458-4B24-473E-8BB5-8004133B90AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB32E458-4B24-473E-8BB5-8004133B90AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB32E458-4B24-473E-8BB5-8004133B90AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB32E458-4B24-473E-8BB5-8004133B90AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49EF88C-8522-4116-897C-EFB2C9C7C2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49EF88C-8522-4116-897C-EFB2C9C7C2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49EF88C-8522-4116-897C-EFB2C9C7C2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49EF88C-8522-4116-897C-EFB2C9C7C2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CE97D4-FD55-42B2-AD90-4A3084223E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CE97D4-FD55-42B2-AD90-4A3084223E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CE97D4-FD55-42B2-AD90-4A3084223E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CE97D4-FD55-42B2-AD90-4A3084223E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68CFF5EC-73AD-4411-80D6-A32F815C7CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CFF5EC-73AD-4411-80D6-A32F815C7CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CFF5EC-73AD-4411-80D6-A32F815C7CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CFF5EC-73AD-4411-80D6-A32F815C7CDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

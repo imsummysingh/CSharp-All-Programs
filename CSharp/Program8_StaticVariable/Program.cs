@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program8_StaticVariable
+namespace Program08_StaticVariable
 {
     class Program
     {

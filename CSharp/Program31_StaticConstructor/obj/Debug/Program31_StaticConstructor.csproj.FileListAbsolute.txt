@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_StaticConstructor\bin\Debug\Program31_StaticConstructor.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_StaticConstructor\bin\Debug\Program31_StaticConstructor.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_StaticConstructor\bin\Debug\Program31_StaticConstructor.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_StaticConstructor\obj\Debug\Program31_StaticConstructor.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_StaticConstructor\obj\Debug\Program31_StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_StaticConstructor\obj\Debug\Program31_StaticConstructor.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program31_StaticConstructor\obj\Debug\Program31_StaticConstructor.pdb
