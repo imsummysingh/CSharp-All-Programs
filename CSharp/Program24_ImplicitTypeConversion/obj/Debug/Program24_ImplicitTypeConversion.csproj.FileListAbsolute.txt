@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program24_ImplicitTypeConversion\bin\Debug\Program24_ImplicitTypeConversion.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program24_ImplicitTypeConversion\bin\Debug\Program24_ImplicitTypeConversion.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program24_ImplicitTypeConversion\bin\Debug\Program24_ImplicitTypeConversion.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program24_ImplicitTypeConversion\obj\Debug\Program24_ImplicitTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program24_ImplicitTypeConversion\obj\Debug\Program24_ImplicitTypeConversion.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program24_ImplicitTypeConversion\obj\Debug\Program24_ImplicitTypeConversion.pdb

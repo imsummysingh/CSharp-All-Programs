@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program26_Enumeraation\obj\Debug\Program26_Enumeraation.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program26_Enumeraation\bin\Debug\Program26_Enumeraation.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program26_Enumeraation\bin\Debug\Program26_Enumeraation.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program26_Enumeraation\bin\Debug\Program26_Enumeraation.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program26_Enumeraation\obj\Debug\Program26_Enumeraation.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program26_Enumeraation\obj\Debug\Program26_Enumeraation.pdb
