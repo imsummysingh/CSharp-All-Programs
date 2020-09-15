@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program37_CopyConstructor\bin\Debug\Program37_CopyConstructor.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program37_CopyConstructor\bin\Debug\Program37_CopyConstructor.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program37_CopyConstructor\bin\Debug\Program37_CopyConstructor.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program37_CopyConstructor\obj\Debug\Program37_CopyConstructor.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program37_CopyConstructor\obj\Debug\Program37_CopyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program37_CopyConstructor\obj\Debug\Program37_CopyConstructor.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program37_CopyConstructor\obj\Debug\Program37_CopyConstructor.pdb

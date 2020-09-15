@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program35_NestedClasses\bin\Debug\Program35_NestedClasses.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program35_NestedClasses\bin\Debug\Program35_NestedClasses.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program35_NestedClasses\bin\Debug\Program35_NestedClasses.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program35_NestedClasses\obj\Debug\Program35_NestedClasses.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program35_NestedClasses\obj\Debug\Program35_NestedClasses.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program35_NestedClasses\obj\Debug\Program35_NestedClasses.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program35_NestedClasses\obj\Debug\Program35_NestedClasses.pdb

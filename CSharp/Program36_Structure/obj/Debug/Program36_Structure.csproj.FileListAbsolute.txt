@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program36_Structure\bin\Debug\Program36_Structure.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program36_Structure\bin\Debug\Program36_Structure.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program36_Structure\bin\Debug\Program36_Structure.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program36_Structure\obj\Debug\Program36_Structure.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program36_Structure\obj\Debug\Program36_Structure.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program36_Structure\obj\Debug\Program36_Structure.pdb
