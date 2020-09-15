@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program43_AbstractClass\bin\Debug\Program43_AbstractClass.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program43_AbstractClass\bin\Debug\Program43_AbstractClass.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program43_AbstractClass\bin\Debug\Program43_AbstractClass.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program43_AbstractClass\obj\Debug\Program43_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program43_AbstractClass\obj\Debug\Program43_AbstractClass.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program43_AbstractClass\obj\Debug\Program43_AbstractClass.pdb

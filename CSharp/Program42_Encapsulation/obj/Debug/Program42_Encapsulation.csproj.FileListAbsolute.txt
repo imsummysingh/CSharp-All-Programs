@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program42_Encapsulation\bin\Debug\Program42_Encapsulation.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program42_Encapsulation\bin\Debug\Program42_Encapsulation.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program42_Encapsulation\bin\Debug\Program42_Encapsulation.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program42_Encapsulation\obj\Debug\Program42_Encapsulation.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program42_Encapsulation\obj\Debug\Program42_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program42_Encapsulation\obj\Debug\Program42_Encapsulation.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program42_Encapsulation\obj\Debug\Program42_Encapsulation.pdb

@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program45_this2\bin\Debug\Program45_this2.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program45_this2\bin\Debug\Program45_this2.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program45_this2\bin\Debug\Program45_this2.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program45_this2\obj\Debug\Program45_this2.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program45_this2\obj\Debug\Program45_this2.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program45_this2\obj\Debug\Program45_this2.pdb
