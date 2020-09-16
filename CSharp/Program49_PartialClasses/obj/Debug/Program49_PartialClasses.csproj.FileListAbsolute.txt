@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program49_PartialClasses\obj\Debug\Program49_PartialClasses.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program49_PartialClasses\obj\Debug\Program49_PartialClasses.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program49_PartialClasses\bin\Debug\Program49_PartialClasses.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program49_PartialClasses\bin\Debug\Program49_PartialClasses.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program49_PartialClasses\bin\Debug\Program49_PartialClasses.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program49_PartialClasses\obj\Debug\Program49_PartialClasses.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program49_PartialClasses\obj\Debug\Program49_PartialClasses.pdb
