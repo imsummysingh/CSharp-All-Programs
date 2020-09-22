@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program52_CreatingObj1\bin\Debug\Program52_CreatingObj1.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program52_CreatingObj1\bin\Debug\Program52_CreatingObj1.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program52_CreatingObj1\bin\Debug\Program52_CreatingObj1.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program52_CreatingObj1\obj\Debug\Program52_CreatingObj1.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program52_CreatingObj1\obj\Debug\Program52_CreatingObj1.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program52_CreatingObj1\obj\Debug\Program52_CreatingObj1.pdb

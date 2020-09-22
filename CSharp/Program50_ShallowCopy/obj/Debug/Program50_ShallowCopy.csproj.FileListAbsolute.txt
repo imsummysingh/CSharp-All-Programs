@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program50_ShallowCopy\bin\Debug\Program50_ShallowCopy.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program50_ShallowCopy\bin\Debug\Program50_ShallowCopy.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program50_ShallowCopy\bin\Debug\Program50_ShallowCopy.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program50_ShallowCopy\obj\Debug\Program50_ShallowCopy.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program50_ShallowCopy\obj\Debug\Program50_ShallowCopy.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program50_ShallowCopy\obj\Debug\Program50_ShallowCopy.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program50_ShallowCopy\obj\Debug\Program50_ShallowCopy.pdb
