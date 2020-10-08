@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program65_MethodParameters_NamedParameters\bin\Debug\Program65_MethodParameters_NamedParameters.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program65_MethodParameters_NamedParameters\bin\Debug\Program65_MethodParameters_NamedParameters.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program65_MethodParameters_NamedParameters\bin\Debug\Program65_MethodParameters_NamedParameters.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program65_MethodParameters_NamedParameters\obj\Debug\Program65_MethodParameters_NamedParameters.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program65_MethodParameters_NamedParameters\obj\Debug\Program65_MethodParameters_NamedParameters.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program65_MethodParameters_NamedParameters\obj\Debug\Program65_MethodParameters_NamedParameters.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program65_MethodParameters_NamedParameters\obj\Debug\Program65_MethodParameters_NamedParameters.pdb

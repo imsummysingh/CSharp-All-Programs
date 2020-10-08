@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program69_MethodParameters_DynamicParameter\bin\Debug\Program69_MethodParameters_DynamicParameter.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program69_MethodParameters_DynamicParameter\bin\Debug\Program69_MethodParameters_DynamicParameter.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program69_MethodParameters_DynamicParameter\bin\Debug\Program69_MethodParameters_DynamicParameter.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program69_MethodParameters_DynamicParameter\obj\Debug\Program69_MethodParameters_DynamicParameter.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program69_MethodParameters_DynamicParameter\obj\Debug\Program69_MethodParameters_DynamicParameter.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program69_MethodParameters_DynamicParameter\obj\Debug\Program69_MethodParameters_DynamicParameter.pdb

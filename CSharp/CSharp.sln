@@ -131,6 +131,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program63_MethodReturningOb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program64_MethodReturningObject2", "Program64_MethodReturningObject2\Program64_MethodReturningObject2.csproj", "{8B2A4630-D504-4BC6-BDB2-88B1F5241971}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program65_MethodParameters_NamedParameters", "Program65_MethodParameters_NamedParameters\Program65_MethodParameters_NamedParameters.csproj", "{29A235AA-6CAD-4057-B6F1-011E66ECD36A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program66_MethodParameter_RefParameter", "Program66_MethodParameter_RefParameter\Program66_MethodParameter_RefParameter.csproj", "{00744914-E4BA-4A85-8823-30B250EC7089}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program67_MethodParameter_OutParameters", "Program67_MethodParameter_OutParameters\Program67_MethodParameter_OutParameters.csproj", "{0462C522-5AEA-4656-8925-F418E612085C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program68_MethodParameters_DefaultorOptionalParameters", "Program68_MethodParameters_DefaultorOptionalParameters\Program68_MethodParameters_DefaultorOptionalParameters.csproj", "{63CF360D-8CDD-4A95-A694-569AB8B7D7BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program69_MethodParameters_DynamicParameter", "Program69_MethodParameters_DynamicParameter\Program69_MethodParameters_DynamicParameter.csproj", "{BABB8823-04B2-4632-AB3D-2D8C1E310354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program70_MethodParameters_ValueParameters", "Program70_MethodParameters_ValueParameters\Program70_MethodParameters_ValueParameters.csproj", "{5B9FFA98-7047-4671-8717-30D7ED436809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program71_MethodParameters_Param", "Program71_MethodParameters_Param\Program71_MethodParameters_Param.csproj", "{BF05003F-5BB5-4AAB-9627-4CED85E8FC8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +407,34 @@ Global
 		{8B2A4630-D504-4BC6-BDB2-88B1F5241971}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B2A4630-D504-4BC6-BDB2-88B1F5241971}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B2A4630-D504-4BC6-BDB2-88B1F5241971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A235AA-6CAD-4057-B6F1-011E66ECD36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A235AA-6CAD-4057-B6F1-011E66ECD36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A235AA-6CAD-4057-B6F1-011E66ECD36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A235AA-6CAD-4057-B6F1-011E66ECD36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00744914-E4BA-4A85-8823-30B250EC7089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00744914-E4BA-4A85-8823-30B250EC7089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00744914-E4BA-4A85-8823-30B250EC7089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00744914-E4BA-4A85-8823-30B250EC7089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0462C522-5AEA-4656-8925-F418E612085C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0462C522-5AEA-4656-8925-F418E612085C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0462C522-5AEA-4656-8925-F418E612085C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0462C522-5AEA-4656-8925-F418E612085C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CF360D-8CDD-4A95-A694-569AB8B7D7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CF360D-8CDD-4A95-A694-569AB8B7D7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CF360D-8CDD-4A95-A694-569AB8B7D7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CF360D-8CDD-4A95-A694-569AB8B7D7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABB8823-04B2-4632-AB3D-2D8C1E310354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABB8823-04B2-4632-AB3D-2D8C1E310354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABB8823-04B2-4632-AB3D-2D8C1E310354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABB8823-04B2-4632-AB3D-2D8C1E310354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9FFA98-7047-4671-8717-30D7ED436809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9FFA98-7047-4671-8717-30D7ED436809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9FFA98-7047-4671-8717-30D7ED436809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9FFA98-7047-4671-8717-30D7ED436809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF05003F-5BB5-4AAB-9627-4CED85E8FC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF05003F-5BB5-4AAB-9627-4CED85E8FC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF05003F-5BB5-4AAB-9627-4CED85E8FC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF05003F-5BB5-4AAB-9627-4CED85E8FC8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

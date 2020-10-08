@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program67_MethodParameter_OutParameters\bin\Debug\Program67_MethodParameter_OutParameters.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program67_MethodParameter_OutParameters\bin\Debug\Program67_MethodParameter_OutParameters.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program67_MethodParameter_OutParameters\bin\Debug\Program67_MethodParameter_OutParameters.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program67_MethodParameter_OutParameters\obj\Debug\Program67_MethodParameter_OutParameters.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program67_MethodParameter_OutParameters\obj\Debug\Program67_MethodParameter_OutParameters.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program67_MethodParameter_OutParameters\obj\Debug\Program67_MethodParameter_OutParameters.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program67_MethodParameter_OutParameters\obj\Debug\Program67_MethodParameter_OutParameters.pdb
