@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program54_ObjectInitializer\bin\Debug\Program54_ObjectInitializer.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program54_ObjectInitializer\bin\Debug\Program54_ObjectInitializer.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program54_ObjectInitializer\bin\Debug\Program54_ObjectInitializer.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program54_ObjectInitializer\obj\Debug\Program54_ObjectInitializer.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program54_ObjectInitializer\obj\Debug\Program54_ObjectInitializer.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program54_ObjectInitializer\obj\Debug\Program54_ObjectInitializer.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program54_ObjectInitializer\obj\Debug\Program54_ObjectInitializer.pdb

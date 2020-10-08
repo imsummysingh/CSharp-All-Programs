@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program55_CollectionInitializer\bin\Debug\Program55_CollectionInitializer.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program55_CollectionInitializer\bin\Debug\Program55_CollectionInitializer.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program55_CollectionInitializer\bin\Debug\Program55_CollectionInitializer.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program55_CollectionInitializer\obj\Debug\Program55_CollectionInitializer.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program55_CollectionInitializer\obj\Debug\Program55_CollectionInitializer.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program55_CollectionInitializer\obj\Debug\Program55_CollectionInitializer.pdb
