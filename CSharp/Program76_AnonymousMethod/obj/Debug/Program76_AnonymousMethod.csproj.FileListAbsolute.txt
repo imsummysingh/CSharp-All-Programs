@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program76_AnonymousMethod\bin\Debug\Program76_AnonymousMethod.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program76_AnonymousMethod\bin\Debug\Program76_AnonymousMethod.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program76_AnonymousMethod\bin\Debug\Program76_AnonymousMethod.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program76_AnonymousMethod\obj\Debug\Program76_AnonymousMethod.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program76_AnonymousMethod\obj\Debug\Program76_AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program76_AnonymousMethod\obj\Debug\Program76_AnonymousMethod.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program76_AnonymousMethod\obj\Debug\Program76_AnonymousMethod.pdb
