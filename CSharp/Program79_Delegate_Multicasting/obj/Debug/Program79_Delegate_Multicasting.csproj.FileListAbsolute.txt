@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program79_Delegate_Multicasting\bin\Debug\Program79_Delegate_Multicasting.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program79_Delegate_Multicasting\bin\Debug\Program79_Delegate_Multicasting.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program79_Delegate_Multicasting\bin\Debug\Program79_Delegate_Multicasting.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program79_Delegate_Multicasting\obj\Debug\Program79_Delegate_Multicasting.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program79_Delegate_Multicasting\obj\Debug\Program79_Delegate_Multicasting.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program79_Delegate_Multicasting\obj\Debug\Program79_Delegate_Multicasting.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program79_Delegate_Multicasting\obj\Debug\Program79_Delegate_Multicasting.pdb

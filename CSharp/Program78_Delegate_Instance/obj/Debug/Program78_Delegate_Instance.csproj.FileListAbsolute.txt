@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program78_Delegate_Instance\bin\Debug\Program78_Delegate_Instance.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program78_Delegate_Instance\bin\Debug\Program78_Delegate_Instance.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program78_Delegate_Instance\bin\Debug\Program78_Delegate_Instance.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program78_Delegate_Instance\obj\Debug\Program78_Delegate_Instance.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program78_Delegate_Instance\obj\Debug\Program78_Delegate_Instance.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program78_Delegate_Instance\obj\Debug\Program78_Delegate_Instance.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program78_Delegate_Instance\obj\Debug\Program78_Delegate_Instance.pdb

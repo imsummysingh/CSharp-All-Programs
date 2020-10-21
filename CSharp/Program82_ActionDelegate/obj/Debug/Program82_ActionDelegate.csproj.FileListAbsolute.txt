@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program82_ActionDelegate\bin\Debug\Program82_ActionDelegate.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program82_ActionDelegate\bin\Debug\Program82_ActionDelegate.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program82_ActionDelegate\bin\Debug\Program82_ActionDelegate.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program82_ActionDelegate\obj\Debug\Program82_ActionDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program82_ActionDelegate\obj\Debug\Program82_ActionDelegate.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program82_ActionDelegate\obj\Debug\Program82_ActionDelegate.pdb

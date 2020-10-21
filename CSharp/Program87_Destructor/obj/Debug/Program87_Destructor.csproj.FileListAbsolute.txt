@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program87_Destructor\bin\Debug\Program87_Destructor.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program87_Destructor\bin\Debug\Program87_Destructor.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program87_Destructor\bin\Debug\Program87_Destructor.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program87_Destructor\obj\Debug\Program87_Destructor.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program87_Destructor\obj\Debug\Program87_Destructor.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program87_Destructor\obj\Debug\Program87_Destructor.pdb

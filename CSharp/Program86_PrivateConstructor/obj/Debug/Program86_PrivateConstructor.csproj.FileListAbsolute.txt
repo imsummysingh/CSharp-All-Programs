@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program86_PrivateConstructor\bin\Debug\Program86_PrivateConstructor.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program86_PrivateConstructor\bin\Debug\Program86_PrivateConstructor.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program86_PrivateConstructor\bin\Debug\Program86_PrivateConstructor.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program86_PrivateConstructor\obj\Debug\Program86_PrivateConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program86_PrivateConstructor\obj\Debug\Program86_PrivateConstructor.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program86_PrivateConstructor\obj\Debug\Program86_PrivateConstructor.pdb
