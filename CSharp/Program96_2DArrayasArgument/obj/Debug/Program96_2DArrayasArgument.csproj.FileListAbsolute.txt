@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program96_2DArrayasArgument\obj\Debug\Program96_2DArrayasArgument.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program96_2DArrayasArgument\bin\Debug\Program96_2DArrayasArgument.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program96_2DArrayasArgument\bin\Debug\Program96_2DArrayasArgument.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program96_2DArrayasArgument\bin\Debug\Program96_2DArrayasArgument.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program96_2DArrayasArgument\obj\Debug\Program96_2DArrayasArgument.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program96_2DArrayasArgument\obj\Debug\Program96_2DArrayasArgument.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program96_2DArrayasArgument\obj\Debug\Program96_2DArrayasArgument.pdb

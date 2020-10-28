@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program95_PassingArrayasArgument\bin\Debug\Program95_PassingArrayasArgument.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program95_PassingArrayasArgument\bin\Debug\Program95_PassingArrayasArgument.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program95_PassingArrayasArgument\bin\Debug\Program95_PassingArrayasArgument.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program95_PassingArrayasArgument\obj\Debug\Program95_PassingArrayasArgument.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program95_PassingArrayasArgument\obj\Debug\Program95_PassingArrayasArgument.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program95_PassingArrayasArgument\obj\Debug\Program95_PassingArrayasArgument.pdb
