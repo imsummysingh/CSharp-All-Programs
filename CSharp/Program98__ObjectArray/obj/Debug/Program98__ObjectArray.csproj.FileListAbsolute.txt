@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program98__ObjectArray\bin\Debug\Program98__ObjectArray.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program98__ObjectArray\bin\Debug\Program98__ObjectArray.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program98__ObjectArray\bin\Debug\Program98__ObjectArray.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program98__ObjectArray\obj\Debug\Program98__ObjectArray.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program98__ObjectArray\obj\Debug\Program98__ObjectArray.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program98__ObjectArray\obj\Debug\Program98__ObjectArray.pdb

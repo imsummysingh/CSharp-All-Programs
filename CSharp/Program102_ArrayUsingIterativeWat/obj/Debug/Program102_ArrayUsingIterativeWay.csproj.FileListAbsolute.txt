@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program102_ArrayUsingIterativeWat\bin\Debug\Program102_ArrayUsingIterativeWat.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program102_ArrayUsingIterativeWat\bin\Debug\Program102_ArrayUsingIterativeWat.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program102_ArrayUsingIterativeWat\bin\Debug\Program102_ArrayUsingIterativeWat.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program102_ArrayUsingIterativeWat\obj\Debug\Program102_ArrayUsingIterativeWay.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program102_ArrayUsingIterativeWat\obj\Debug\Program102_ArrayUsingIterativeWat.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program102_ArrayUsingIterativeWat\obj\Debug\Program102_ArrayUsingIterativeWat.pdb

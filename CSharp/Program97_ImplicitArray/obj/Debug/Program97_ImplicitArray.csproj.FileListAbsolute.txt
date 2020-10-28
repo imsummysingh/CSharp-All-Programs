@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program97_ImplicitArray\bin\Debug\Program97_ImplicitArray.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program97_ImplicitArray\bin\Debug\Program97_ImplicitArray.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program97_ImplicitArray\bin\Debug\Program97_ImplicitArray.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program97_ImplicitArray\obj\Debug\Program97_ImplicitArray.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program97_ImplicitArray\obj\Debug\Program97_ImplicitArray.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program97_ImplicitArray\obj\Debug\Program97_ImplicitArray.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program97_ImplicitArray\obj\Debug\Program97_ImplicitArray.pdb
