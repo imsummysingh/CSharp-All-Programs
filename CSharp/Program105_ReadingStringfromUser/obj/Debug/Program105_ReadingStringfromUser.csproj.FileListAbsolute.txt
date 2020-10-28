@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program105_ReadingStringfromUser\bin\Debug\Program105_ReadingStringfromUser.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program105_ReadingStringfromUser\bin\Debug\Program105_ReadingStringfromUser.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program105_ReadingStringfromUser\bin\Debug\Program105_ReadingStringfromUser.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program105_ReadingStringfromUser\obj\Debug\Program105_ReadingStringfromUser.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program105_ReadingStringfromUser\obj\Debug\Program105_ReadingStringfromUser.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program105_ReadingStringfromUser\obj\Debug\Program105_ReadingStringfromUser.pdb
