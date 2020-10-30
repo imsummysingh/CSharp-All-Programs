@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program136_Dictionary\bin\Debug\Program136_Dictionary.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program136_Dictionary\bin\Debug\Program136_Dictionary.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program136_Dictionary\bin\Debug\Program136_Dictionary.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program136_Dictionary\obj\Debug\Program136_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program136_Dictionary\obj\Debug\Program136_Dictionary.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program136_Dictionary\obj\Debug\Program136_Dictionary.pdb

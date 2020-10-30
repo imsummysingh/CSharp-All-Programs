@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program119_PropertiesGetAndSet\bin\Debug\Program119_PropertiesGetAndSet.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program119_PropertiesGetAndSet\bin\Debug\Program119_PropertiesGetAndSet.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program119_PropertiesGetAndSet\bin\Debug\Program119_PropertiesGetAndSet.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program119_PropertiesGetAndSet\obj\Debug\Program119_PropertiesGetAndSet.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program119_PropertiesGetAndSet\obj\Debug\Program119_PropertiesGetAndSet.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program119_PropertiesGetAndSet\obj\Debug\Program119_PropertiesGetAndSet.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program119_PropertiesGetAndSet\obj\Debug\Program119_PropertiesGetAndSet.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program111_Tuple1\bin\Debug\Program111_Tuple1.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program111_Tuple1\bin\Debug\Program111_Tuple1.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program111_Tuple1\bin\Debug\Program111_Tuple1.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program111_Tuple1\obj\Debug\Program111_Tuple1.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program111_Tuple1\obj\Debug\Program111_Tuple1.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program111_Tuple1\obj\Debug\Program111_Tuple1.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program111_Tuple1\obj\Debug\Program111_Tuple1.pdb

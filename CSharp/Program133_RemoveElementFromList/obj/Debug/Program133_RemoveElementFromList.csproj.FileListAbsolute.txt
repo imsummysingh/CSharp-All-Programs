@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program133_RemoveElementFromList\bin\Debug\Program133_RemoveElementFromList.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program133_RemoveElementFromList\bin\Debug\Program133_RemoveElementFromList.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program133_RemoveElementFromList\bin\Debug\Program133_RemoveElementFromList.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program133_RemoveElementFromList\obj\Debug\Program133_RemoveElementFromList.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program133_RemoveElementFromList\obj\Debug\Program133_RemoveElementFromList.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program133_RemoveElementFromList\obj\Debug\Program133_RemoveElementFromList.pdb

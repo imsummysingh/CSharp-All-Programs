@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program130_Deadlock\bin\Debug\Program130_Deadlock.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program130_Deadlock\bin\Debug\Program130_Deadlock.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program130_Deadlock\bin\Debug\Program130_Deadlock.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program130_Deadlock\obj\Debug\Program130_Deadlock.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program130_Deadlock\obj\Debug\Program130_Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program130_Deadlock\obj\Debug\Program130_Deadlock.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program130_Deadlock\obj\Debug\Program130_Deadlock.pdb

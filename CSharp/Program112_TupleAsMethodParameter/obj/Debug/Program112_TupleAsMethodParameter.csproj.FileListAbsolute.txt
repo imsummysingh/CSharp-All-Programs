@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program112_TupleAsMethodParameter\bin\Debug\Program112_TupleAsMethodParameter.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program112_TupleAsMethodParameter\bin\Debug\Program112_TupleAsMethodParameter.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program112_TupleAsMethodParameter\bin\Debug\Program112_TupleAsMethodParameter.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program112_TupleAsMethodParameter\obj\Debug\Program112_TupleAsMethodParameter.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program112_TupleAsMethodParameter\obj\Debug\Program112_TupleAsMethodParameter.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program112_TupleAsMethodParameter\obj\Debug\Program112_TupleAsMethodParameter.pdb

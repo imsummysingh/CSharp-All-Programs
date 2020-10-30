@@ -1,0 +1,7 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program118_PropertiesReadOnly\bin\Debug\Program118_PropertiesReadOnly.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program118_PropertiesReadOnly\bin\Debug\Program118_PropertiesReadOnly.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program118_PropertiesReadOnly\bin\Debug\Program118_PropertiesReadOnly.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program118_PropertiesReadOnly\obj\Debug\Program118_PropertiesReadOnly.csprojAssemblyReference.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program118_PropertiesReadOnly\obj\Debug\Program118_PropertiesReadOnly.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program118_PropertiesReadOnly\obj\Debug\Program118_PropertiesReadOnly.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program118_PropertiesReadOnly\obj\Debug\Program118_PropertiesReadOnly.pdb

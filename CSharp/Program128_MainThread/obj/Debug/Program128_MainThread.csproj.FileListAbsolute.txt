@@ -1,0 +1,6 @@
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program128_MainThread\bin\Debug\Program128_MainThread.exe.config
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program128_MainThread\bin\Debug\Program128_MainThread.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program128_MainThread\bin\Debug\Program128_MainThread.pdb
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program128_MainThread\obj\Debug\Program128_MainThread.csproj.CoreCompileInputs.cache
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program128_MainThread\obj\Debug\Program128_MainThread.exe
+C:\Users\ssingh687\source\repos\CSharp-Programs\CSharp\Program128_MainThread\obj\Debug\Program128_MainThread.pdb
